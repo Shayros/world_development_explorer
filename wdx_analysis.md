@@ -1,11 +1,12 @@
 
+![](images/women-in-tech-pillar-page-in-person-communities-for-women.png)
 # The increase of women in the workplace drives an increase in GDP
 
 **Author**: Shaimar R. González Morales
 
 **Date**: 3/28/2021
 
-![](images/women-in-tech-pillar-page-in-person-communities-for-women.png)
+
 
 
 ![](charts/Line graph alll countries.png) 
