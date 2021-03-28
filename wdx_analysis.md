@@ -1,4 +1,5 @@
 
+![](images/images/women-in-tech-pillar-page-in-person-communities-for-women.png)
 # Women in the workplace contribute to a higher GDP
 
 **Author**: Shaimar R. González Morales
@@ -20,3 +21,9 @@ You also look at the historic trend to spot any changes
 You will also explore relations between different topics/indicators
 For example, wealth may impact health, women's education levels may impact their employment.
 Use scatter plots (2D scatter plot and/or bubble chart)
+
+![](images/shutterstock_751868104-1-1024x1024.jpg)
+
+kjd
+
+![](images/women-in-tech-pillar-page-online-communities-for-women.png)
