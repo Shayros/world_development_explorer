@@ -1,11 +1,11 @@
 
-![](images/images/women-in-tech-pillar-page-in-person-communities-for-women.png)
-
 # Women in the workplace contribute to a higher GDP
 
 **Author**: Shaimar R. González Morales
 
 **Date**: 3/28/2021
+
+![](images/images/women-in-tech-pillar-page-in-person-communities-for-women.png)
 
 ![](charts/Line graph alll countries.png) 
 
@@ -28,3 +28,6 @@ Use scatter plots (2D scatter plot and/or bubble chart)
 kjdj
 
 ![](images/women-in-tech-pillar-page-online-communities-for-women.png)
+
+
+
