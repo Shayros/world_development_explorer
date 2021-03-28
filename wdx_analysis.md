@@ -13,6 +13,7 @@ United Stated saw an increase in women in the workplace since 1930 and 1970 it t
 The descrimination against female names in applications does not even account for the discrimination either sexual or gender bases that many women face once that they are hired. And unfortanetlly many countries doesn't have laws that proctec women in the workplace.
 
 ![](images/pos.cause.png)
+*https://www.cfr.org/womens-participation-in-global-economy/*
 
 
 
@@ -45,7 +46,9 @@ Use scatter plots (2D scatter plot and/or bubble chart)
 ### References:
 
 1.Yellen, Janet L. (May 2020). The history of women’s work and wages and how it has created success for us all.  https://www.brookings.edu/essay/the-history-of-womens-work-and-wages-and-how-it-has-created-success-for-us-all/
+
 2.Pictute a Scientist: https://www.pictureascientist.com/
+
 3.
 
 
