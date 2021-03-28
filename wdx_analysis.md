@@ -1,5 +1,6 @@
 
 ![](images/images/women-in-tech-pillar-page-in-person-communities-for-women.png)
+
 # Women in the workplace contribute to a higher GDP
 
 **Author**: Shaimar R. González Morales
