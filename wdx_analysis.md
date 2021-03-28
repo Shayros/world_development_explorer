@@ -25,6 +25,6 @@ Use scatter plots (2D scatter plot and/or bubble chart)
 
 ![](images/shutterstock_751868104-1-1024x1024.jpg)
 
-kjd
+kjdj
 
 ![](images/women-in-tech-pillar-page-online-communities-for-women.png)
