@@ -1,5 +1,5 @@
 
-# Women in the workplace contribute to a higher GDP
+# The increase of women in the workplace drives an increase in GDP
 
 **Author**: Shaimar R. González Morales
 
