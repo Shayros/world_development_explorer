@@ -65,9 +65,9 @@ Therefore, let's support women in the workplace and create an equal environment 
 
 3.El-Swais, Maha (March 09, 2016).World Bank Blogs: Arab Voices. Despite high education levels, Arab women still don’t have jobs. https://blogs.worldbank.org/arabvoices/despite-high-education-levels-arab-women-still-don-t-have-jobs
 
-4. Getting it done: Utilising women’s skills in the workforce. https://policygroupontradeswomen.org/wp-content/uploads/2020/08/Getting-it-done-Utilising-women%E2%80%99s-skills-in-the-workforce-Lessons-from-the-Canterbury-New-Zealand-rebuild-2015.pdf
+4.Getting it done: Utilising women’s skills in the workforce. https://policygroupontradeswomen.org/wp-content/uploads/2020/08/Getting-it-done-Utilising-women%E2%80%99s-skills-in-the-workforce-Lessons-from-the-Canterbury-New-Zealand-rebuild-2015.pdf
 
-5. Growing Economies Through Gender Parity. https://www.cfr.org/womens-participation-in-global-economy/
+5.Growing Economies Through Gender Parity. https://www.cfr.org/womens-participation-in-global-economy/
 
 
 
