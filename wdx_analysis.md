@@ -54,6 +54,7 @@ The Growing Economies Through Gender Parity established a projection of what cou
 In this article we observed that althought US have 75% of gender parity there still much to be done and we should adopt policies similar to the ones of New Zealand and Canada or even go higher to potentially boost the economy (5). If the US adopt New Zealand strategies there could be an increase of even 12% which is 2.7 trillion gain and around $8,000 per person (5). 
 
 Therefore, let's support women in the workplace and create an equal environment for everyone. Creating equality in the workplace will benefit everyone of us.
+
 ![](images/women-in-tech-pillar-page-online-communities-for-women.png)
 *Image from: builtin.com*
 
