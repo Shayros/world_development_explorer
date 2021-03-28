@@ -5,7 +5,7 @@
 
 **Date**: 3/28/2021
 
-![] (charts/Line graph alll countries.png) 
+![](charts/Line graph alll countries.png) 
 
 You should provide a detailed introduction about the project, for example,
 What is it that you are investigating/exploring/analyzing (provide sufficient background information)?
