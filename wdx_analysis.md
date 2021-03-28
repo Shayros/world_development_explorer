@@ -5,7 +5,7 @@
 
 **Date**: 3/28/2021
 
-![](images/images/women-in-tech-pillar-page-in-person-communities-for-women.png)
+![](images/women-in-tech-pillar-page-in-person-communities-for-women.png)
 
 
 ![](charts/Line graph alll countries.png) 
