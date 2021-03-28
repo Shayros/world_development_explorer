@@ -1,5 +1,10 @@
 ![] (images/muslim-women-with-hijab-working-at-home-office-vector-31668590.jpg)
-# women in the w
+
+# women in the workplace contribute to a higher GDP
+
+**Author**: Shaimar R. González Morales
+
+**Date**: 3/28/2021
 
 You should provide a detailed introduction about the project, for example,
 What is it that you are investigating/exploring/analyzing (provide sufficient background information)?
