@@ -31,14 +31,14 @@ Although this database doesn't include data during the pandemic, we can determin
 
 First, to performed this analysis I chose Economy and Growth (GDP per capita (cureent international $)) and Education (labor force total. The countries that were selected were Algeria, Canada, China, Egypt, Germany, India, Iran, Italy, Japan, New Zealand, Saudi Arabia, United Kingdom, United States and Yemen from 2010 to 2019. This was done as most of this countries are the ones with highest GDP and others like Yemen are ones with low  women in the workplace.
 
-![](charts/Bar_with _Canada_and_New_Zealand.png)
+![](charts/Bar_with_Canada_and_New_Zealand.png)
 
 
 A bar graph was used just to ilustrate the amout of GDP among countries. Here in this graph we can observed that United States, Germany and Canada has the higher GDP and among the lowest are Yemen and India.
 
 I used a buble graph to ilustrate the relation between GDP and women workforce. 
 
-![](charts/Bubble_with_Canada_and_New Zealand.png)
+![](charts/Bubble_with_Canada_and_New_Zealand.png)
 
 In this graph we can observed that New Zealand have a high women workforce than many countries. Nevertheless, United States and China are the countries with higher women workforce. We know that China increase in female workforce could be due to their one child policy and perhaps more favorable work evironments than other Asian countries in this list. Nevertheless we observed that Yemen, India and Iran are among the lowest in women workforce and the ones with lower GDP. We can observed that with exception of Saudi Arabia more women in the workforce correlates with more GDP.
  
