@@ -31,7 +31,7 @@ Although this database doesn't include data during the pandemic, we can determin
 
 First, to performed this analysis I chose Economy and Growth (GDP per capita (cureent international $)) and Education (labor force total. The countries that were selected were Algeria, Canada, China, Egypt, Germany, India, Iran, Italy, Japan, New Zealand, Saudi Arabia, United Kingdom, United States and Yemen from 2010 to 2019. This was done as most of this countries are the ones with highest GDP and others like Yemen are ones with low  women in the workplace.
 
-![] (charts/Bar_with _Canada_and_New_Zealand.png)
+![](charts/Bar_with _Canada_and_New_Zealand.png)
 
 A bar graph was used just to ilustrate the amout of GDP among countries. Here in this graph we can observed that United States, Germany and Canada has the higher GDP and among the lowest are Yemen and India.
 
