@@ -33,6 +33,7 @@ First, to performed this analysis I chose Economy and Growth (GDP per capita (cu
 
 ![](charts/Bar_with _Canada_and_New_Zealand.png)
 
+
 A bar graph was used just to ilustrate the amout of GDP among countries. Here in this graph we can observed that United States, Germany and Canada has the higher GDP and among the lowest are Yemen and India.
 
 I used a buble graph to ilustrate the relation between GDP and women workforce. 
