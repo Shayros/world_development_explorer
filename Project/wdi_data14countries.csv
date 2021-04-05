@@ -1,0 +1,135 @@
+,Year,SL.TLF.TOTL.IN,NY.GDP.PCAP.PP.CD,SL.TLF.TOTL.FE.ZS,Country Code,Country Name,Region,Income Group,Lending Type
+0,2010,11074293,13095.4468249877,16.8828113903,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+1,2011,11295173,13500.0416554875,17.8318472856,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+2,2012,11532685,13303.3317888752,18.8328130006,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+3,2013,12003272,13056.8036185828,19.2147024578,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+4,2014,11584916,13003.267118909,18.3711129196,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+5,2015,11878706,12015.6313951015,19.0372924458,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+6,2016,12178730,11624.3389888436,19.706611444700002,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+7,2017,12464049,11737.4093527549,20.3956194331,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+8,2018,12589369,11925.7985636431,20.1269737983,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+9,2019,12716547,12019.9283559331,19.8824256302,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+10,2010,18918726,40019.9262502347,47.1342097771,CAN,Canada,North America,High income,Not classified
+11,2011,19061289,41569.449617197,47.0929904058,CAN,Canada,North America,High income,Not classified
+12,2012,19250224,42290.9654102745,47.2264634427,CAN,Canada,North America,High income,Not classified
+13,2013,19475966,44298.5787342765,47.313627473,CAN,Canada,North America,High income,Not classified
+14,2014,19560731,45753.7505547994,47.1899133013,CAN,Canada,North America,High income,Not classified
+15,2015,19678725,44670.0805385838,47.053094141,CAN,Canada,North America,High income,Not classified
+16,2016,19888519,46472.3402486315,47.1730750791,CAN,Canada,North America,High income,Not classified
+17,2017,20166001,48490.3794987481,47.2720744187,CAN,Canada,North America,High income,Not classified
+18,2018,20349923,50939.392593709,47.3633585739,CAN,Canada,North America,High income,Not classified
+19,2019,20743970,51668.9145456827,47.2403161015,CAN,Canada,North America,High income,Not classified
+20,2010,775372828,9253.7651876772,44.0790545732,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+21,2011,778344032,10299.870694002,44.0388568432,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+22,2012,781065415,11197.5969363537,44.0030305272,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+23,2013,783402608,11923.7526189386,43.9784078431,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+24,2014,785158479,12549.7718312938,43.9577728868,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+25,2015,786338838,12978.7689105711,43.920692367,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+26,2016,786996416,13572.6199886903,43.8687861826,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+27,2017,787183184,14344.4212394407,43.7997275613,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+28,2018,785986127,15614.3052820791,43.7188283859,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+29,2019,783981163,16804.425782267,43.634356429,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+30,2010,27411900,9522.5101985566,22.9805449458,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+31,2011,27825942,9686.0463784655,22.4757925536,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+32,2012,28583736,11092.7432596071,22.7586449861,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+33,2013,29411205,11221.3819091064,23.4060862178,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+34,2014,29972664,10895.9448542272,23.7200904131,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+35,2015,29541107,11512.4023933352,23.4014250041,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+36,2016,29893554,11192.372891628,23.8380822836,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+37,2017,29628638,11014.4861365513,23.5004423761,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+38,2018,29275345,11643.2204975294,20.5612367677,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+39,2019,29776956,12283.8073656393,20.5740304684,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+40,2010,42005792,38982.4263045636,45.5799785896,DEU,Germany,Europe & Central Asia,High income,Not classified
+41,2011,41658239,42541.5310884096,45.8495209075,DEU,Germany,Europe & Central Asia,High income,Not classified
+42,2012,41734548,43359.6148271723,45.8687632127,DEU,Germany,Europe & Central Asia,High income,Not classified
+43,2013,42104557,44993.8927459315,46.0871634393,DEU,Germany,Europe & Central Asia,High income,Not classified
+44,2014,42318973,47011.5510935131,46.1717064826,DEU,Germany,Europe & Central Asia,High income,Not classified
+45,2015,42590799,47609.7810045816,46.2716536499,DEU,Germany,Europe & Central Asia,High income,Not classified
+46,2016,43058646,50579.6839299266,46.3626399214,DEU,Germany,Europe & Central Asia,High income,Not classified
+47,2017,43288288,53121.9876792716,46.4078320676,DEU,Germany,Europe & Central Asia,High income,Not classified
+48,2018,43562287,56689.0957331988,46.3166132669,DEU,Germany,Europe & Central Asia,High income,Not classified
+49,2019,43871267,57530.3030344638,46.2943616377,DEU,Germany,Europe & Central Asia,High income,Not classified
+50,2010,462951189,4236.7442364733,23.032538102,IND,India,South Asia,Lower middle income,IBRD
+51,2011,463753798,4493.6678035249,22.1179769184,IND,India,South Asia,Lower middle income,IBRD
+52,2012,464761442,4861.1463707748,21.2267673444,IND,India,South Asia,Lower middle income,IBRD
+53,2013,469136973,5057.2175808503,21.0187957196,IND,India,South Asia,Lower middle income,IBRD
+54,2014,473314433,5233.8685428186,20.8254754403,IND,India,South Asia,Lower middle income,IBRD
+55,2015,477296183,5464.8591405153,20.652123254,IND,India,South Asia,Lower middle income,IBRD
+56,2016,481184542,5839.8985890506,20.4900674054,IND,India,South Asia,Lower middle income,IBRD
+57,2017,484532665,6185.9938925854,20.343392122,IND,India,South Asia,Lower middle income,IBRD
+58,2018,487622021,6655.0698600041,20.209207902,IND,India,South Asia,Lower middle income,IBRD
+59,2019,494732705,6996.5569265023,20.3170924388,IND,India,South Asia,Lower middle income,IBRD
+60,2010,24035524,17388.8956143824,18.2125923279,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income,IBRD
+61,2011,24155492,18008.8025229276,17.6529296112,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income,IBRD
+62,2012,24266666,15950.1045340642,17.087641953,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income,IBRD
+63,2013,24357605,15273.8463115438,16.5504367117,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income,IBRD
+64,2014,24418455,15235.7048371843,16.0395201089,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income,IBRD
+65,2015,25357015,13588.4676012498,17.2736814645,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income,IBRD
+66,2016,26558441,14011.5453075687,18.8133934518,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income,IBRD
+67,2017,27421069,14535.8622264762,19.7969488352,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income,IBRD
+68,2018,27769381,13800.0234652712,19.5909516312,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income,IBRD
+69,2019,28212249,12937.4759795684,19.3964259992,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income,IBRD
+70,2010,24462578,35185.29289013,41.1658574987,ITA,Italy,Europe & Central Asia,High income,Not classified
+71,2011,24477992,36598.0149693024,41.4571464849,ITA,Italy,Europe & Central Asia,High income,Not classified
+72,2012,25033694,36486.2967870302,42.0365008856,ITA,Italy,Europe & Central Asia,High income,Not classified
+73,2013,25171797,36314.6971007775,42.2348273347,ITA,Italy,Europe & Central Asia,High income,Not classified
+74,2014,25569875,36194.873918843,42.4408762264,ITA,Italy,Europe & Central Asia,High income,Not classified
+75,2015,25540324,36899.3852092463,42.1307615361,ITA,Italy,Europe & Central Asia,High income,Not classified
+76,2016,25812533,39926.9546628592,42.3249086016,ITA,Italy,Europe & Central Asia,High income,Not classified
+77,2017,25985393,41713.9000170061,42.5276385083,ITA,Italy,Europe & Central Asia,High income,Not classified
+78,2018,26032169,44471.8706651752,42.5713546958,ITA,Italy,Europe & Central Asia,High income,Not classified
+79,2019,26034548,45722.5696741577,42.6925099679,ITA,Italy,Europe & Central Asia,High income,Not classified
+80,2010,66668694,34986.9945402402,41.7308639644,JPN,Japan,East Asia & Pacific,High income,Not classified
+81,2011,66039729,35774.6967129559,41.7647413423,JPN,Japan,East Asia & Pacific,High income,Not classified
+82,2012,65639408,37191.3859456258,41.9394382716,JPN,Japan,East Asia & Pacific,High income,Not classified
+83,2013,65967827,38974.0794886127,42.3534793711,JPN,Japan,East Asia & Pacific,High income,Not classified
+84,2014,66176723,39179.155610609,42.59001613,JPN,Japan,East Asia & Pacific,High income,Not classified
+85,2015,66364640,40388.5527720976,42.8018715991,JPN,Japan,East Asia & Pacific,High income,Not classified
+86,2016,66854063,39964.2770077463,43.111361833,JPN,Japan,East Asia & Pacific,High income,Not classified
+87,2017,67285070,41093.5006345222,43.5031753701,JPN,Japan,East Asia & Pacific,High income,Not classified
+88,2018,68355058,42811.0363720993,43.9371611681,JPN,Japan,East Asia & Pacific,High income,Not classified
+89,2019,68838956,43593.5050635196,44.2555738353,JPN,Japan,East Asia & Pacific,High income,Not classified
+90,2010,2324737,31260.8529725315,46.68085035,NZL,New Zealand,East Asia & Pacific,High income,Not classified
+91,2011,2353326,32743.9007511678,46.8100042238,NZL,New Zealand,East Asia & Pacific,High income,Not classified
+92,2012,2362367,32996.3454112092,47.0221180706,NZL,New Zealand,East Asia & Pacific,High income,Not classified
+93,2013,2393523,36231.1004613438,47.1786567332,NZL,New Zealand,East Asia & Pacific,High income,Not classified
+94,2014,2468222,37276.9439703148,47.2533264836,NZL,New Zealand,East Asia & Pacific,High income,Not classified
+95,2015,2520970,37465.390514082,47.2493127645,NZL,New Zealand,East Asia & Pacific,High income,Not classified
+96,2016,2620843,39980.8441523909,47.3589604566,NZL,New Zealand,East Asia & Pacific,High income,Not classified
+97,2017,2708657,42274.4068831256,47.3946313616,NZL,New Zealand,East Asia & Pacific,High income,Not classified
+98,2018,2756619,44660.519298475,47.5962764531,NZL,New Zealand,East Asia & Pacific,High income,Not classified
+99,2019,2787494,45382.1235079228,47.8914035331,NZL,New Zealand,East Asia & Pacific,High income,Not classified
+100,2010,9882980,51529.841044276,14.7558934653,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+101,2011,10563687,56132.9575253182,15.4846409213,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+102,2012,11306004,57364.4322238959,15.6933784916,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+103,2013,11980361,55907.3941653276,15.3851040048,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+104,2014,12556264,55725.3975564186,15.5233435678,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+105,2015,13187031,48611.1452690648,16.2511106556,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+106,2016,13607874,45485.6595750719,16.7847894535,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+107,2017,13838780,47309.1322269122,16.3214315135,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+108,2018,14019589,48756.192950207,15.8995245866,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+109,2019,14387604,49040.3429456877,15.8062593327,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+110,2010,32039432,36371.392987807,46.0275544211,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+111,2011,32227412,37161.554131385,46.1159741899,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+112,2012,32582929,38311.8971996093,46.1234838648,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+113,2013,32899155,39970.9960678458,46.2732614257,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+114,2014,33196455,41265.9380854536,46.4106393288,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+115,2015,33483034,42506.7220622134,46.457146028,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+116,2016,33799601,44166.9763874323,46.5359073322,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+117,2017,34011298,45955.3270123209,46.7615202454,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+118,2018,34331422,48690.7851734308,46.8089320623,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+119,2019,34639275,49931.6047586808,47.0418159733,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+120,2010,156905914,48467.5157769259,46.1839672914,USA,United States,North America,High income,Not classified
+121,2011,156975333,49886.8181094923,46.1151950542,USA,United States,North America,High income,Not classified
+122,2012,158646244,51610.6052783379,45.9403054005,USA,United States,North America,High income,Not classified
+123,2013,158753171,53117.6678498178,45.9124044836,USA,United States,North America,High income,Not classified
+124,2014,159542326,55064.7445483427,45.9645285603,USA,United States,North America,High income,Not classified
+125,2015,160604120,56839.3817742317,45.8652673418,USA,United States,North America,High income,Not classified
+126,2016,162552800,57951.5840820997,45.8708419664,USA,United States,North America,High income,Not classified
+127,2017,164257517,60062.2223132215,46.025583718,USA,United States,North America,High income,Not classified
+128,2018,165475054,62996.4712852608,46.0599759043,USA,United States,North America,High income,Not classified
+129,2019,167282980,65297.5175082743,46.1636258512,USA,United States,North America,High income,Not classified
+130,2010,5231267,4162.0884511419,12.7413875071,YEM,"Yemen, Rep.",Middle East & North Africa,Low income,IDA
+131,2011,5317033,3607.0902628286,11.4436754483,YEM,"Yemen, Rep.",Middle East & North Africa,Low income,IDA
+132,2012,5408852,3491.2043246054,10.2615305429,YEM,"Yemen, Rep.",Middle East & North Africa,Low income,IDA
+133,2013,5504849,3688.5198485566,9.2053751156,YEM,"Yemen, Rep.",Middle East & North Africa,Low income,IDA
